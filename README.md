@@ -18,8 +18,11 @@ This project is a Streamlit-based web application that allows users to upload me
 
 ## 🖼️ Demo Screenshots
 
-### 🔍 Image Upload & Analysis View
+### 🔍 Image Upload View
+![Upload Screenshot](https://github.com/divyabomaraboina/Medical_app/blob/main/Screenshot%202025-05-12%20132044.png )
 
+### 📊 GPT-4o Medical Report with ELI5 Explanation
+![Report Screenshot](https://github.com/divyabomaraboina/Medical_app/blob/main/Screenshot%202025-05-12%20132044.png)
 
 
 ### 📊 Medical Report with ELI5 Explanation
