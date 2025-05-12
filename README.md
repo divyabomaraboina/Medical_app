@@ -23,24 +23,6 @@ This project is a Streamlit-based web application that allows users to upload me
 
 
 ### 📊 Medical Report with ELI5 Explanation
-
----
-
-## 🗂️ Project Structure
-```
-
-Medical\_app/
-├── app.py              # Streamlit App code
-├── requirements.txt    # Python dependencies
-├── .gitignore          # Ignores .env, **pycache**, etc.
-├── .env.template       # API key example template
-├── screenshots/        # Screenshots for documentation
-└── README.md           # This file
-
-````
-
----
-
 ## 🛠️ Local Installation Guide
 
 ### 1️⃣ Clone Repository
